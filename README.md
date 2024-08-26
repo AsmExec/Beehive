@@ -1,4 +1,4 @@
-## Hello world :)
+## 🐝🐝
 
 here's a simple C code
 ```c
@@ -9,3 +9,5 @@ here's a simple C code
     return 0;
   }
 ```
+
+
